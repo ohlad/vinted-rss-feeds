@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            max-width: 800px;
+            max-width: 900px;
             margin: 50px auto;
             padding: 20px;
             background: #f5f5f5;
@@ -35,19 +35,31 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+            transition: all 0.3s ease;
+        }
+        .feed-item:hover {
+            background: #e9ecef;
+            transform: translateX(5px);
         }
         .feed-title {
             font-weight: bold;
             color: #333;
+            font-size: 16px;
+        }
+        .feed-description {
+            color: #666;
+            font-size: 13px;
+            margin-top: 3px;
         }
         .feed-links a {
             margin-left: 10px;
-            padding: 5px 10px;
+            padding: 6px 12px;
             background: #007bff;
             color: white;
             text-decoration: none;
             border-radius: 3px;
             font-size: 14px;
+            transition: background 0.3s;
         }
         .feed-links a:hover {
             background: #0056b3;
@@ -56,6 +68,9 @@
             background: #28a745!important;
             cursor: pointer;
         }
+        .copy-btn:hover {
+            background: #218838!important;
+        }
         .info {
             margin-top: 30px;
             padding: 15px;
@@ -63,58 +78,199 @@
             border-left: 4px solid #007bff;
             border-radius: 3px;
         }
+        .stats {
+            margin-top: 20px;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-around;
+            text-align: center;
+        }
+        .stat-item {
+            flex: 1;
+        }
+        .stat-number {
+            font-size: 24px;
+            font-weight: bold;
+            color: #007bff;
+        }
+        .stat-label {
+            color: #666;
+            font-size: 14px;
+            margin-top: 5px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>📰 Vinted RSS Feeds</h1>
         
+        <div class="stats">
+            <div class="stat-item">
+                <div class="stat-number">9</div>
+                <div class="stat-label">Aktivních feedů</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number">15 min</div>
+                <div class="stat-label">Interval aktualizace</div>
+            </div>
+            <div class="stat-item">
+                <div class="stat-number" id="last-update-time">--:--</div>
+                <div class="stat-label">Poslední aktualizace</div>
+            </div>
+        </div>
+        
         <ul class="feed-list">
             <li class="feed-item">
-                <span class="feed-title">🏎️ LEGO Speed Champions</span>
+                <div>
+                    <div class="feed-title">🏎️ LEGO Speed Champions</div>
+                    <div class="feed-description">Speed Champions do 450 Kč</div>
+                </div>
                 <div class="feed-links">
-                    <a href="lego_speed.xml">RSS Feed</a>
-                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_speed.xml')">Kopírovat URL</a>
+                    <a href="lego_speed.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_speed.xml'); return false;">Kopírovat URL</a>
                 </div>
             </li>
             
             <li class="feed-item">
-                <span class="feed-title">🔧 LEGO Technic</span>
+                <div>
+                    <div class="feed-title">🔧 LEGO Technic</div>
+                    <div class="feed-description">Technic sady</div>
+                </div>
                 <div class="feed-links">
-                    <a href="lego_technic.xml">RSS Feed</a>
-                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_technic.xml')">Kopírovat URL</a>
+                    <a href="lego_technic.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_technic.xml'); return false;">Kopírovat URL</a>
                 </div>
             </li>
             
             <li class="feed-item">
-                <span class="feed-title">🏙️ LEGO City</span>
+                <div>
+                    <div class="feed-title">⚙️ LEGO Technic (kategorie)</div>
+                    <div class="feed-description">Technic z kategorie</div>
+                </div>
                 <div class="feed-links">
-                    <a href="lego_city.xml">RSS Feed</a>
-                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_city.xml')">Kopírovat URL</a>
+                    <a href="lego_technic_kat.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_technic_kat.xml'); return false;">Kopírovat URL</a>
+                </div>
+            </li>
+            
+            <li class="feed-item">
+                <div>
+                    <div class="feed-title">🔄 LEGO Technic Mix</div>
+                    <div class="feed-description">Technic mix do 1100 Kč</div>
+                </div>
+                <div class="feed-links">
+                    <a href="lego_technic_mix.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_technic_mix.xml'); return false;">Kopírovat URL</a>
+                </div>
+            </li>
+            
+            <li class="feed-item">
+                <div>
+                    <div class="feed-title">🧱 LEGO Mix</div>
+                    <div class="feed-description">Různé LEGO sady</div>
+                </div>
+                <div class="feed-links">
+                    <a href="lego_mix.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_mix.xml'); return false;">Kopírovat URL</a>
+                </div>
+            </li>
+            
+            <li class="feed-item">
+                <div>
+                    <div class="feed-title">📦 LEGO (kategorie)</div>
+                    <div class="feed-description">LEGO z kategorie hračky</div>
+                </div>
+                <div class="feed-links">
+                    <a href="lego_kat.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_kat.xml'); return false;">Kopírovat URL</a>
+                </div>
+            </li>
+            
+            <li class="feed-item">
+                <div>
+                    <div class="feed-title">👶 LEGO Duplo</div>
+                    <div class="feed-description">Duplo pro nejmenší</div>
+                </div>
+                <div class="feed-links">
+                    <a href="lego_duplo.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_duplo.xml'); return false;">Kopírovat URL</a>
+                </div>
+            </li>
+            
+            <li class="feed-item">
+                <div>
+                    <div class="feed-title">💰 LEGO 200-300 Kč</div>
+                    <div class="feed-description">LEGO v rozmezí 200-300 Kč</div>
+                </div>
+                <div class="feed-links">
+                    <a href="lego_200_300.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_200_300.xml'); return false;">Kopírovat URL</a>
+                </div>
+            </li>
+            
+            <li class="feed-item">
+                <div>
+                    <div class="feed-title">⚖️ LEGO na kilogramy</div>
+                    <div class="feed-description">LEGO prodávané na váhu</div>
+                </div>
+                <div class="feed-links">
+                    <a href="lego_kg.xml" target="_blank">RSS Feed</a>
+                    <a href="#" class="copy-btn" onclick="copyToClipboard('lego_kg.xml'); return false;">Kopírovat URL</a>
                 </div>
             </li>
         </ul>
         
         <div class="info">
             <strong>ℹ️ Jak používat:</strong><br>
-            1. Klikni na "RSS Feed" pro zobrazení<br>
+            1. Klikni na "RSS Feed" pro zobrazení XML<br>
             2. Nebo klikni "Kopírovat URL" a vlož do své RSS čtečky<br>
-            3. Feedy se aktualizují každé 2 hodiny<br>
+            3. Feedy se aktualizují automaticky každých 15 minut<br>
             <br>
-            <strong>Poslední aktualizace:</strong> <span id="last-update"></span>
+            <strong>🔧 Podporované RSS čtečky:</strong><br>
+            • Feedly, Inoreader, The Old Reader (webové)<br>
+            • NetNewsWire, Reeder (iOS/macOS)<br>
+            • Feeder, Flym (Android)<br>
+            <br>
+            <strong>📊 Status:</strong> <span id="status" style="color: green; font-weight: bold;">✅ Aktivní</span>
         </div>
     </div>
     
     <script>
         function copyToClipboard(file) {
             const url = window.location.origin + window.location.pathname.replace('index.html', '') + file;
-            navigator.clipboard.writeText(url);
-            alert('URL zkopírováno: ' + url);
-            return false;
+            navigator.clipboard.writeText(url).then(function() {
+                // Najdi tlačítko které bylo kliknuto
+                event.target.textContent = '✓ Zkopírováno!';
+                event.target.style.background = '#28a745';
+                
+                // Po 2 sekundách vrať původní text
+                setTimeout(() => {
+                    event.target.textContent = 'Kopírovat URL';
+                    event.target.style.background = '';
+                }, 2000);
+            }).catch(function(err) {
+                alert('Nepodařilo se zkopírovat URL. Zkopíruj ručně: ' + url);
+            });
         }
         
         // Zobraz čas poslední aktualizace
-        document.getElementById('last-update').textContent = new Date().toLocaleString('cs-CZ');
+        const now = new Date();
+        document.getElementById('last-update-time').textContent = now.toLocaleTimeString('cs-CZ', {hour: '2-digit', minute: '2-digit'});
+        
+        // Zkontroluj jestli feedy existují
+        fetch('lego_speed.xml')
+            .then(response => {
+                if (!response.ok) {
+                    document.getElementById('status').textContent = '⚠️ Čeká na první spuštění';
+                    document.getElementById('status').style.color = 'orange';
+                }
+            })
+            .catch(error => {
+                document.getElementById('status').textContent = '❌ Offline';
+                document.getElementById('status').style.color = 'red';
+            });
     </script>
 </body>
 </html>
