@@ -88,7 +88,7 @@ FEEDS_CONFIG = {
 # Přidej další feedy zde...
 }
 
-MAX_POLOZEK = 100
+MAX_POLOZEK = 300
 MAZAT_STARSI_NEZ_DNI = 30
 
 
