@@ -41,14 +41,14 @@ FEEDS_CONFIG = {
         "description": "LEGO Technic",
         "cache_file": "cache/lego_technic.json",
         "feed_file": "docs/lego_technic.xml"
-    }
+    },
     "lego-kg": {
         "url": "https://www.vinted.cz/catalog?search_text=lego%20kg&price_from=50.0&currency=CZK&search_id=20549846549&order=newest_first",
         "title": "LEGO KG",
         "description": "LEGO KG",
         "cache_file": "cache/lego_kg.json",
         "feed_file": "docs/lego_kg.xml"
-    }
+    },
 
     "lego-technic-kat": {
         "url": "https://www.vinted.cz/catalog?search_text=&catalog[]=1767&brand_ids[]=407093&search_id=21855804981&order=newest_first",
@@ -56,21 +56,21 @@ FEEDS_CONFIG = {
         "description": "LEGO tehnic kat",
         "cache_file": "cache/lego_technic_kat.json",
         "feed_file": "docs/lego_technic_kat.xml"
-    }
+    },
     "lego-mix": {
         "url": "https://www.vinted.cz/catalog?search_text=lego%20mix&search_id=23708556687&order=newest_first",
         "title": "LEGO mix",
         "description": "LEGO mix",
         "cache_file": "cache/lego_mix.json",
         "feed_file": "docs/lego_mix.xml"
-    }
+    },
     "lego-200-300": {
         "url": "https://www.vinted.cz/catalog?search_text=&catalog[]=1767&price_from=200.0&price_to=300.0&currency=CZK&brand_ids[]=89162&search_id=30666696637&order=newest_first",
         "title": "LEGO 200-300",
         "description": "LEGO 200 300",
         "cache_file": "cache/lego_200_300.json",
         "feed_file": "docs/lego_200_300.xml"
-    }
+    },
 
     "lego-kat": {
         "url": "https://www.vinted.cz/catalog?search_text=&catalog[]=1767&brand_ids[]=89162&search_id=30177685542&order=newest_first",
@@ -78,7 +78,7 @@ FEEDS_CONFIG = {
         "description": "LEGO kat",
         "cache_file": "cache/lego_kat.json",
         "feed_file": "docs/lego_kat.xml"
-    }
+    },
 
 
 
