@@ -88,7 +88,7 @@ FEEDS_CONFIG = {
 # Přidej další feedy zde...
 }
 
-MAX_POLOZEK = 100
+MAX_POLOZEK = 300
 MAZAT_STARSI_NEZ_DNI = 30
 
 
@@ -105,7 +105,6 @@ class VintedRSSGenerator:
         self.feed_title = self.config["title"]
         self.feed_description = self.config["description"]
         
-        # Vytvoř složky
         os.makedirs('cache', exist_ok=True)
         os.makedirs('docs', exist_ok=True)
     
@@ -171,6 +170,64 @@ class VintedRSSGenerator:
         
         return False
     
+    def extrahuj_cenu(self, text):
+        """Extrahuje cenu z textu"""
+        if not text:
+            return None
+        
+        # Najdi všechny výskyty ceny ve formátu "XXXX Kč" nebo "XXXX,XX Kč"
+        # Použijeme jednoduchý přístup - najdeme text před "Kč"
+        
+        # Najdi pozici "Kč"
+        kc_match = re.search(r'Kč', text)
+        if not kc_match:
+            return None
+        
+        # Vezmi text před "Kč" (max 20 znaků)
+        start_pos = max(0, kc_match.start() - 20)
+        before_kc = text[start_pos:kc_match.start()]
+        
+        # Najdi číslo na konci tohoto textu
+        # Může obsahovat: číslice, mezery, čárky, tečky
+        price_match = re.search(r'([\d\s.,]+)$', before_kc.strip())
+        
+        if price_match:
+            price_str = price_match.group(1).strip()
+            
+            # Vyčistit cenu - odstranit mezery
+            price_clean = price_str.replace(' ', '').replace('\u00A0', '')
+            
+            # Rozpoznat formát a vyčistit
+            # Pokud končí na ,XX nebo .XX (1-2 číslice), je to desetinná část
+            decimal_match = re.search(r'([.,])(\d{1,2})$', price_clean)
+            
+            if decimal_match:
+                # Má desetinnou část
+                decimal_sep = decimal_match.group(1)
+                decimal_digits = decimal_match.group(2)
+                
+                # Hlavní část (bez desetin)
+                main_part = price_clean[:-(len(decimal_digits) + 1)]
+                
+                # Odstranit oddělovače tisíců z hlavní části
+                main_part = re.sub(r'[.,]', '', main_part)
+                
+                # Složit zpět s desetinnou čárkou
+                price_clean = f"{main_part},{decimal_digits}"
+            else:
+                # Nemá desetinnou část - odstranit všechny oddělovače
+                price_clean = re.sub(r'[.,]', '', price_clean)
+            
+            # Ověřit že máme číslo
+            test_num = price_clean.replace(',', '.')
+            try:
+                float(test_num)
+                return f"{price_clean} Kč"
+            except:
+                pass
+        
+        return None
+    
     def scrapuj_vinted(self):
         chrome_options = Options()
         chrome_options.add_argument('--headless')
@@ -181,7 +238,6 @@ class VintedRSSGenerator:
         chrome_options.add_argument('user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36')
         chrome_options.add_argument('--window-size=1920,1080')
         
-        # Pro GitHub Actions
         if os.environ.get('GITHUB_ACTIONS'):
             chrome_options.add_argument('--disable-software-rasterizer')
         
@@ -264,9 +320,9 @@ class VintedRSSGenerator:
                     if size_match:
                         item['size'] = size_match.group(1).strip()
                     
-                    price_match = re.search(r'(\d+[,\s]?\d*)\s*Kč', full_title)
-                    if price_match:
-                        item['price'] = f"{price_match.group(1)} Kč"
+                    price = self.extrahuj_cenu(full_title)
+                    if price:
+                        item['price'] = price
                 
                 container = link.find_parent('div', class_=re.compile(r'feed-grid|ItemBox|styles_container'))
                 if not container:
@@ -432,11 +488,10 @@ def main():
         generator = VintedRSSGenerator(feed_name)
         generator.run()
     else:
-        # Aktualizovat všechny
         for feed_name in FEEDS_CONFIG.keys():
             generator = VintedRSSGenerator(feed_name)
             generator.run()
-            time.sleep(5)  # Pauza mezi feedy
+            time.sleep(5)
 
 
 if __name__ == "__main__":
