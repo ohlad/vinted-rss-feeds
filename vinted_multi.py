@@ -264,9 +264,12 @@ class VintedRSSGenerator:
                     if size_match:
                         item['size'] = size_match.group(1).strip()
                     
-                    price_match = re.search(r'(\d+[,\s]?\d*)\s*Kč', full_title)
-                    if price_match:
-                        item['price'] = f"{price_match.group(1)} Kč"
+# Extrahovat cenu - opravená verze pro tisíce
+price_match = re.search(r'(\d[\d\s,]*)\s*Kč', full_title)
+if price_match:
+    # Získat cenu a zachovat formátování
+    price = price_match.group(1).strip()
+    item['price'] = f"{price} Kč"
                 
                 container = link.find_parent('div', class_=re.compile(r'feed-grid|ItemBox|styles_container'))
                 if not container:
