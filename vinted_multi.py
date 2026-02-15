@@ -88,7 +88,7 @@ FEEDS_CONFIG = {
 # Přidej další feedy zde...
 }
 
-MAX_POLOZEK = 300
+MAX_POLOZEK = 100
 MAZAT_STARSI_NEZ_DNI = 30
 
 
@@ -241,37 +241,32 @@ class VintedRSSGenerator:
                 
                 full_title = link.get('title') or link.get('aria-label') or ''
                 
-if full_title:
-    # Extrahovat název (vše před ", značka:")
-    title_match = re.match(r'^(.+?),\s*značka:', full_title)
-    if title_match:
-        item['title'] = title_match.group(1).strip()
-    else:
-        title_match = re.match(r'^(.+?),\s*\d+', full_title)
-        if title_match:
-            item['title'] = title_match.group(1).strip()
-        else:
-            item['title'] = full_title.split(',')[0].strip()
-    
-    # Extrahovat značku
-    brand_match = re.search(r'značka:\s*([^,]+)', full_title)
-    if brand_match:
-        item['brand'] = brand_match.group(1).strip()
-    
-    # Extrahovat stav
-    condition_match = re.search(r'stav:\s*([^,]+)', full_title)
-    if condition_match:
-        item['condition'] = condition_match.group(1).strip()
-    
-    # Extrahovat velikost
-    size_match = re.search(r'velikost:\s*([^,]+)', full_title)
-    if size_match:
-        item['size'] = size_match.group(1).strip()
-    
-# Extrahovat cenu
-price_match = re.search(r'(\d+[,\s]?\d*)\s*Kč', full_title)
-if price_match:
-    item['price'] = f"{price_match.group(1)} Kč"
+                if full_title:
+                    title_match = re.match(r'^(.+?),\s*značka:', full_title)
+                    if title_match:
+                        item['title'] = title_match.group(1).strip()
+                    else:
+                        title_match = re.match(r'^(.+?),\s*\d+', full_title)
+                        if title_match:
+                            item['title'] = title_match.group(1).strip()
+                        else:
+                            item['title'] = full_title.split(',')[0].strip()
+                    
+                    brand_match = re.search(r'značka:\s*([^,]+)', full_title)
+                    if brand_match:
+                        item['brand'] = brand_match.group(1).strip()
+                    
+                    condition_match = re.search(r'stav:\s*([^,]+)', full_title)
+                    if condition_match:
+                        item['condition'] = condition_match.group(1).strip()
+                    
+                    size_match = re.search(r'velikost:\s*([^,]+)', full_title)
+                    if size_match:
+                        item['size'] = size_match.group(1).strip()
+                    
+                    price_match = re.search(r'(\d+[,\s]?\d*)\s*Kč', full_title)
+                    if price_match:
+                        item['price'] = f"{price_match.group(1)} Kč"
                 
                 container = link.find_parent('div', class_=re.compile(r'feed-grid|ItemBox|styles_container'))
                 if not container:
