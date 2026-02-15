@@ -268,14 +268,10 @@ if full_title:
     if size_match:
         item['size'] = size_match.group(1).strip()
     
-    # OPRAVENÁ EXTRAKCE CENY
-    # Hledá různé formáty včetně tisíců
-    price_match = re.search(r'(\d+(?:[\s\u00A0]\d{3})*(?:,\d+)?)\s*Kč', full_title)
-    if price_match:
-        price = price_match.group(1).strip()
-        # Normalizace mezer (nbsp na běžnou mezeru)
-        price = price.replace('\u00A0', ' ')
-        item['price'] = f"{price} Kč"
+# Extrahovat cenu
+price_match = re.search(r'(\d+[,\s]?\d*)\s*Kč', full_title)
+if price_match:
+    item['price'] = f"{price_match.group(1)} Kč"
                 
                 container = link.find_parent('div', class_=re.compile(r'feed-grid|ItemBox|styles_container'))
                 if not container:
