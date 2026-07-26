@@ -1,63 +1,4 @@
 {
-  "https://www.vinted.cz/items/9251162536-wielki-zestaw-pudelek-po-lego-puste-pudelka-po-lego-instrukcje-lego?referrer=catalog": {
-    "url": "https://www.vinted.cz/items/9251162536-wielki-zestaw-pudelek-po-lego-puste-pudelka-po-lego-instrukcje-lego?referrer=catalog",
-    "title": "Wielki zestaw pudełek po LEGO, puste pudełka po LEGO, instrukcje LEGO",
-    "brand": "LEGO",
-    "condition": "Dobrý",
-    "size": "do 44 cm",
-    "price": "314,72 Kč",
-    "img": "https://images1.vinted.net/t/03_0240e_5Tga9cPAcL1y3Akcwd8LtQfD/310x430/1782379608.webp?s=b86b6b524f032e0add5d0904e630250b8f62fa94",
-    "datum_pridani": "2026-06-25T09:54:44.926500+00:00",
-    "posledni_videno": "2026-06-30T06:20:56.902450+00:00",
-    "nedostupne": true
-  },
-  "https://www.vinted.cz/items/9251116358-lego-speed-champions-bugatti?referrer=catalog": {
-    "url": "https://www.vinted.cz/items/9251116358-lego-speed-champions-bugatti?referrer=catalog",
-    "title": "Lego speed champions Bugatti",
-    "brand": "LEGO",
-    "condition": "Nový bez visačky",
-    "size": "S",
-    "price": "400,56 Kč",
-    "img": "https://images1.vinted.net/t/06_0183c_xffkp6EFyoboRS7Nch7yJDii/310x430/1782379180.webp?s=5adbbadbcbc5c7cca82b7ebe85ecd0a3e545639e",
-    "datum_pridani": "2026-06-25T09:54:44.926500+00:00",
-    "posledni_videno": "2026-06-30T12:30:30.402153+00:00",
-    "nedostupne": true
-  },
-  "https://www.vinted.cz/items/9251177929-podstawka-na-bolid-f1-lego-speed-champions?referrer=catalog": {
-    "url": "https://www.vinted.cz/items/9251177929-podstawka-na-bolid-f1-lego-speed-champions?referrer=catalog",
-    "title": "Podstawka na bolid F1 Lego Speed Champions, stav: Nový bez visačky, velikost: Univerzální",
-    "condition": "Nový bez visačky",
-    "size": "Univerzální",
-    "price": "160,27 Kč",
-    "img": "https://images1.vinted.net/t/06_00e0e_X7rzSnLizLvJ1ug98ZCFLvQq/310x430/1782379747.webp?s=6952c25f5464b0c970f722e0f4f455208f5b65e3",
-    "datum_pridani": "2026-06-25T09:54:44.926500+00:00",
-    "posledni_videno": "2026-06-27T11:01:32.377823+00:00",
-    "nedostupne": true
-  },
-  "https://www.vinted.cz/items/9250936607-klocki-lego-speed-champions-bugatti-vision-gt?referrer=catalog": {
-    "url": "https://www.vinted.cz/items/9250936607-klocki-lego-speed-champions-bugatti-vision-gt?referrer=catalog",
-    "title": "Klocki LEGO Speed Champions Bugatti Vision GT",
-    "brand": "LEGO",
-    "condition": "Nový s visačkou",
-    "size": "Univerzální",
-    "price": "429,17 Kč",
-    "img": "https://images1.vinted.net/t/06_00b36_GmYzaUYdVwU7gmjC8SzVLLqd/310x430/1782377443.webp?s=e5b35bc47d500f1cbc09f1b5e66ee6c5f828aa6a",
-    "datum_pridani": "2026-06-25T09:54:44.926500+00:00",
-    "posledni_videno": "2026-06-30T06:20:56.902450+00:00",
-    "nedostupne": true
-  },
-  "https://www.vinted.cz/items/9250553033-lego-ferrari-499p-hypercar-speed-champions-30709-new?referrer=catalog": {
-    "url": "https://www.vinted.cz/items/9250553033-lego-ferrari-499p-hypercar-speed-champions-30709-new?referrer=catalog",
-    "title": "LEGO ferrari 499P hypercar Speed champions 30709 New",
-    "brand": "LEGO",
-    "condition": "Nový bez visačky",
-    "size": "122–127 cm / 7 let",
-    "price": "166,04 Kč",
-    "img": "https://images1.vinted.net/t/06_01f6b_5jM7LwhTeKBBmwmGbWbXbsNm/310x430/1782372947.webp?s=e94e1df6d4a4ed126682962e61cd31c424144077",
-    "datum_pridani": "2026-06-25T09:54:44.926500+00:00",
-    "posledni_videno": "2026-06-29T10:10:52.643867+00:00",
-    "nedostupne": true
-  },
   "https://www.vinted.cz/items/9252270828-lego-speed-champion?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9252270828-lego-speed-champion?referrer=catalog",
     "title": "Lego speed champion",
@@ -11981,7 +11922,8 @@
     "price": "80,00 Kč",
     "img": "https://images1.vinted.net/t/05_025fd_T6sWvabcBr34NEPTuP6GQoSA/310x430/1784549576.webp?s=13dd749a9b7088efa82248249389f578d743ad3f",
     "datum_pridani": "2026-07-20T12:34:22.182925+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9444661342-lego-speed-navod?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9444661342-lego-speed-navod?referrer=catalog",
@@ -11993,7 +11935,7 @@
     "img": "https://images1.vinted.net/t/05_006b8_gWw4NdZKBgE1PDnJoMrgw6Bn/310x430/1784549466.webp?s=1d50254bad2436b14964edca0a650f28317bd067",
     "datum_pridani": "2026-07-20T12:34:22.182925+00:00",
     "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9444475287-lego-76921-audi-s1-e-tron-quattro-speed-champions?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9444475287-lego-76921-audi-s1-e-tron-quattro-speed-champions?referrer=catalog",
@@ -12772,7 +12714,8 @@
     "price": "277,43 Kč",
     "img": "https://images1.vinted.net/t/02_0130a_RHPRx2wQsAuYWxmG3dth321C/310x430/1784650868.webp?s=2579f9d31f32e0080f400375c8f5c5803061947b",
     "datum_pridani": "2026-07-21T16:57:13.952910+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9455463531-lego-30434-speed-champions-aston-martin-valkyrie-amr-pro?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9455463531-lego-30434-speed-champions-aston-martin-valkyrie-amr-pro?referrer=catalog",
@@ -12819,7 +12762,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/02_021ea_dHxyBMqxuo7fAwVDWL3oHKM4/310x430/1784654067.webp?s=6090fc771467da41000c42673b26dc2f4c0dd296",
     "datum_pridani": "2026-07-21T18:21:15.299270+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9453096976-lego-76901?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9453096976-lego-76901?referrer=catalog",
@@ -12974,7 +12917,8 @@
     "price": "390,67 Kč",
     "img": "https://images1.vinted.net/t/01_02114_qw7HJCfsKh1h8nwGzCFf5vCi/310x430/1784702597.webp?s=84e9a402ca08b8f2150c0c5b05340cb163ed2c7e",
     "datum_pridani": "2026-07-22T07:15:50.775930+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9460541865-lego-speed-champions?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9460541865-lego-speed-champions?referrer=catalog",
@@ -12985,7 +12929,7 @@
     "price": "418,98 Kč",
     "img": "https://images1.vinted.net/t/04_00895_7GwuBwPsse4mGaUSderaTtrr/310x430/1784714244.webp?s=240e74c0faa4b75c9797d615afdb54aa79b71bc1",
     "datum_pridani": "2026-07-22T10:02:55.345097+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9460080311-stojak-bez-lego-speed-champions-f1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9460080311-stojak-bez-lego-speed-champions-f1?referrer=catalog",
@@ -13052,7 +12996,7 @@
     "price": "299,00 Kč",
     "img": "https://images1.vinted.net/t/01_02018_muK8PgfhmChLUDw2n2HiJnv6/310x430/1784717440.webp?s=3a251b05b127c7ecaca687273cf5ec5244beaf71",
     "datum_pridani": "2026-07-22T12:13:26.866066+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9460716994-lego-76934-speed-champions-supersamochod-ferrari-f40?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9460716994-lego-76934-speed-champions-supersamochod-ferrari-f40?referrer=catalog",
@@ -13063,7 +13007,7 @@
     "price": "283,09 Kč",
     "img": "https://images1.vinted.net/t/01_00d70_sJEyJNCAC6pyAZ685F5jGqQt/310x430/1784715462.webp?s=3b82d497a270070a25d1049b2ec6615efcf076e1",
     "datum_pridani": "2026-07-22T12:13:26.866066+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9460602326-lego-speed?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9460602326-lego-speed?referrer=catalog",
@@ -13110,7 +13054,7 @@
     "price": "424,64 Kč",
     "img": "https://images1.vinted.net/t/04_01979_RrBquNP2igfAvsK6xZpqbUm7/310x430/r3/1784728411.webp?s=8234eab4292e1d0d989a3d2848b250beadb7fc7b",
     "datum_pridani": "2026-07-22T14:36:15.280945+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9461788084-lego-speed?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9461788084-lego-speed?referrer=catalog",
@@ -13181,7 +13125,7 @@
     "price": "449,00 Kč",
     "img": "https://images1.vinted.net/t/04_026e0_Rcq3mQ776EZuoG5EtJpDwVCw/310x430/1784733301.webp?s=4e0a752e67a1d99383a4deb1e51cdb59c50da2f7",
     "datum_pridani": "2026-07-22T16:26:20.751573+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9463333369-lego-speed-champions-ferrari?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9463333369-lego-speed-champions-ferrari?referrer=catalog",
@@ -13216,7 +13160,7 @@
     "price": "283,09 Kč",
     "img": "https://images1.vinted.net/t/01_00166_yMETc2T2Jrhpnhbk6aDPrFiu/310x430/1784738331.webp?s=d54ffb68b5cedd9c06d7d863dd3075c9d4ae1b5a",
     "datum_pridani": "2026-07-22T17:50:32.185138+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9466030714-77254-lego-speed?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9466030714-77254-lego-speed?referrer=catalog",
@@ -13227,7 +13171,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/01_01d12_PpqdV44BFSLTi4tzJPaWE5q4/310x430/1784748067.webp?s=12b3f98ed34100fe53592917de5ec1bf63ccee14",
     "datum_pridani": "2026-07-22T19:37:45.115421+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9465769751-stojak-na-lego-speed-champions-f1-ferrari?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9465769751-stojak-na-lego-speed-champions-f1-ferrari?referrer=catalog",
@@ -13286,7 +13230,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/02_00eee_sxP4de2RYaTued9aSANUtjGB/310x430/1784668928.webp?s=4d290feca64bdafda93c2fd04b9a5fb1888f2d77",
     "datum_pridani": "2026-07-22T19:37:45.115421+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9466544586-stojak-na-auta-lego-speed?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9466544586-stojak-na-auta-lego-speed?referrer=catalog",
@@ -13297,7 +13241,7 @@
     "price": "435,96 Kč",
     "img": "https://images1.vinted.net/t/02_00207_67H3Nea6Df4pSovbg5g885im/310x430/1784751970.webp?s=0a1cc909aa061abf7490e96e28734eab563692e8",
     "datum_pridani": "2026-07-22T21:16:49.799028+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9466293245-lego-speed?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9466293245-lego-speed?referrer=catalog",
@@ -13344,7 +13288,7 @@
     "price": "447,28 Kč",
     "img": "https://images1.vinted.net/t/01_000b7_VbBFa16QqPziAafqCvSArkNz/310x430/1784763244.webp?s=98b6a3dfa9d15b3f7e8a5ced350dac619d3bbdd4",
     "datum_pridani": "2026-07-23T00:08:08.798372+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9456534947-lego-speed-champions-toyota-gazoo-racing?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9456534947-lego-speed-champions-toyota-gazoo-racing?referrer=catalog",
@@ -13451,7 +13395,7 @@
     "price": "350,00 Kč",
     "img": "https://images1.vinted.net/t/01_011f6_XY9k6cTkArz6SnRfao55bNAT/310x430/1784789720.webp?s=2a7344ed7e1e5de64475755346d478f33409b5f9",
     "datum_pridani": "2026-07-23T09:29:18.169070+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9462819390-new-lego-speed-champions-f1-mercedes-amg-petronas-77244?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9462819390-new-lego-speed-champions-f1-mercedes-amg-petronas-77244?referrer=catalog",
@@ -13462,7 +13406,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/06_00422_oYxmiEQwVVX14zoBSKY4ugFW/310x430/1784728755.webp?s=d7cd6f47bcbe4536decceef1935e4fa0032d3525",
     "datum_pridani": "2026-07-23T09:29:18.169070+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9453114878-lego-speed-champions-f40-76934?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9453114878-lego-speed-champions-f40-76934?referrer=catalog",
@@ -13485,7 +13429,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/06_00539_bHnfdct4MxLnHkRaAirrbTMS/310x430/1784804277.webp?s=a7938d6a48f33bba5acea392db48aff2f700ae06",
     "datum_pridani": "2026-07-23T11:27:50.839003+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9469470640-lego-77261-speed-champions-ferrari-499p-like-new?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9469470640-lego-77261-speed-champions-ferrari-499p-like-new?referrer=catalog",
@@ -13496,7 +13440,7 @@
     "price": "368,02 Kč",
     "img": "https://images1.vinted.net/t/02_022c4_qzQ2d4ZSgnhM1EKvPd4uoi4U/310x430/1784803687.webp?s=aa547aa698c20166381cee252a7565f7506dceb7",
     "datum_pridani": "2026-07-23T11:27:50.839003+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9469426719-lego-77243-speed-champions-bolid-f1-oracle-red-bull-racing-rb20-new?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9469426719-lego-77243-speed-champions-bolid-f1-oracle-red-bull-racing-rb20-new?referrer=catalog",
@@ -13519,7 +13463,7 @@
     "price": "399,67 Kč",
     "img": "https://images1.vinted.net/t/06_026c2_HoEJsFVSSah8kTW3K8GDjKrr/310x430/1784801370.webp?s=96d1848b4b9d4d1671b0a423b7331b5489cac6b6",
     "datum_pridani": "2026-07-23T11:27:50.839003+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9469129748-okazja-nowy-nieotwierany-zestaw-lego-77246-speed-champions-f1-bolid-f1-visa-cash-app-rb-vcarb-01?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9469129748-okazja-nowy-nieotwierany-zestaw-lego-77246-speed-champions-f1-bolid-f1-visa-cash-app-rb-vcarb-01?referrer=catalog",
@@ -13530,7 +13474,7 @@
     "price": "399,67 Kč",
     "img": "https://images1.vinted.net/t/02_00310_6dsQXED4hu6zFX9PsXZQQJwY/310x430/1784801302.webp?s=3667703350032f94a279c60578acab8ac7e36a1d",
     "datum_pridani": "2026-07-23T11:27:50.839003+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9469116231-okazja-nowy-nieotwierany-zestaw-lego-77245-speed-champions-f1-aston-martin-aramco-f1-amr-24?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9469116231-okazja-nowy-nieotwierany-zestaw-lego-77245-speed-champions-f1-aston-martin-aramco-f1-amr-24?referrer=catalog",
@@ -13575,7 +13519,7 @@
     "price": "1,00 Kč",
     "img": "https://images1.vinted.net/t/06_02653_jEBtFXR8eBavk6CVzfCntNzR/310x430/1784810729.webp?s=18f2216a6c225ccadf8b83a8fc6783e3e3100bca",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9470459532-lego-speed-champion-formule-1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9470459532-lego-speed-champion-formule-1?referrer=catalog",
@@ -13586,7 +13530,7 @@
     "price": "240,00 Kč",
     "img": "https://images1.vinted.net/t/05_018fc_9hfevT1KPCF4oc1wZz5bu67A/310x430/r3/1784810088.webp?s=1b1ab2120cfc3e46abb4b0dea872fb830183de37",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9470422080-lego-speed-champions-toyota?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9470422080-lego-speed-champions-toyota?referrer=catalog",
@@ -13597,7 +13541,7 @@
     "price": "240,00 Kč",
     "img": "https://images1.vinted.net/t/01_00b15_kNPQHcRzfxWpAv4aoDMAyK2k/310x430/r3/1784809849.webp?s=2583a35ff18c516b2a22e144bea70000ed1bde6c",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9470381226-lego-speed-champion-formule-1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9470381226-lego-speed-champion-formule-1?referrer=catalog",
@@ -13620,7 +13564,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/06_021a5_q4CP5NVSNHuKtvAmuMMyE6b3/310x430/1784808156.webp?s=a95fa768b983bf96b01026aeddc06cd061b87dbd",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9470100396-zolte-auto-samochod-lego-toyota-gr-supra-speed-champions?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9470100396-zolte-auto-samochod-lego-toyota-gr-supra-speed-champions?referrer=catalog",
@@ -13655,7 +13599,7 @@
     "price": "300,00 Kč",
     "img": "https://images1.vinted.net/t/02_00f8d_Ap3BkFXCpcqW84vCFYMFMtpN/310x430/1784807183.webp?s=6bdb50b202b69761df66d4afe7031ec6cf0ca8f5",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9470004465-lego-speed-champions-76917-2-fast-2-furious-nissan-skyline-gt-r-r34?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9470004465-lego-speed-champions-76917-2-fast-2-furious-nissan-skyline-gt-r-r34?referrer=catalog",
@@ -13666,7 +13610,7 @@
     "price": "250,00 Kč",
     "img": "https://images1.vinted.net/t/01_0096c_VEnjuBTgfuM9HMKesmA1r4QQ/310x430/1784807111.webp?s=e9978d7d2d2cebf95f9ecbc1ce81c1f83d4db492",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9469534256-klocki-lego-speed-champions-75877-mercedes-amg-gt3?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9469534256-klocki-lego-speed-champions-75877-mercedes-amg-gt3?referrer=catalog",
@@ -13677,7 +13621,7 @@
     "price": "447,28 Kč",
     "img": "https://images1.vinted.net/t/04_0109e_fWPSNm1isvcAmunqXgJ5iGni/310x430/1784804128.webp?s=6d3391457ba7d7531c1be5302840050511125371",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9469984814-lego-speed-champions-76934-ferrari-f40?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9469984814-lego-speed-champions-76934-ferrari-f40?referrer=catalog",
@@ -13688,7 +13632,7 @@
     "price": "350,00 Kč",
     "img": "https://images1.vinted.net/t/02_02306_eiYzwPv3BvKMnT4gvyj5nybe/310x430/1784807028.webp?s=102cfc922d78bf0b965404022261399c364da6d4",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9469970521-lego-speed-champions-bugatti-bolide?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9469970521-lego-speed-champions-bugatti-bolide?referrer=catalog",
@@ -13699,7 +13643,7 @@
     "price": "350,00 Kč",
     "img": "https://images1.vinted.net/t/04_0145d_3rRAPX8s6W44e9mL9TzR4wya/310x430/1784806931.webp?s=3887e40672ccb71e312234882bf30331daa92e96",
     "datum_pridani": "2026-07-23T13:07:16.656075+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9472048026-lego-speed-champions-77256-back-to-the-future?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9472048026-lego-speed-champions-77256-back-to-the-future?referrer=catalog",
@@ -13746,7 +13690,7 @@
     "price": "141,55 Kč",
     "img": "https://images1.vinted.net/t/05_0138c_ka8mtAUgXC3CB6Vnmv5k1MBC/310x430/1784817484.webp?s=7752941c67ad890f1b8d06ebfd33fecc12aff7d9",
     "datum_pridani": "2026-07-23T15:33:56.531740+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9473428861-lego-speed-champions?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9473428861-lego-speed-champions?referrer=catalog",
@@ -13757,7 +13701,7 @@
     "price": "390,67 Kč",
     "img": "https://images1.vinted.net/t/02_00ede_yJYkVoK1PkdqxoziqmMzXzG7/310x430/1784828163.webp?s=2d4229522e9a8cf6c7022af51e580579c6b277d2",
     "datum_pridani": "2026-07-23T17:39:52.859163+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9473148310-lego-nissan-gtr-76917?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9473148310-lego-nissan-gtr-76917?referrer=catalog",
@@ -13780,7 +13724,7 @@
     "price": "424,64 Kč",
     "img": "https://images1.vinted.net/t/06_00cec_MTgCby5y4m3yV5UMtVdrFMLZ/310x430/1784825491.webp?s=8fd638049b78d48cf694a0b37782cbb98fbd9541",
     "datum_pridani": "2026-07-23T17:39:52.859163+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9472998933-lego-speed-champions-koenigsegg-jesko?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9472998933-lego-speed-champions-koenigsegg-jesko?referrer=catalog",
@@ -13791,7 +13735,7 @@
     "price": "368,02 Kč",
     "img": "https://images1.vinted.net/t/02_01bde_epeH8ospseVh8uQkfRzoZhWm/310x430/1784825454.webp?s=4220f1dadabc36b81b012ca867fd48811acce67c",
     "datum_pridani": "2026-07-23T17:39:52.859163+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9472974173-lego-speed-champions-bugatti-centodiec?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9472974173-lego-speed-champions-bugatti-centodiec?referrer=catalog",
@@ -13802,7 +13746,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/06_001ea_PN9pPSrHqihExsJbYch6vhGP/310x430/1784825304.webp?s=be9da8e86ca0d246cccef912092bbcb7abfe1ce5",
     "datum_pridani": "2026-07-23T17:39:52.859163+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9473062807-stojak-na-lego-speed-champions-f1-ferrari?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9473062807-stojak-na-lego-speed-champions-f1-ferrari?referrer=catalog",
@@ -13825,7 +13769,7 @@
     "price": "424,64 Kč",
     "img": "https://images1.vinted.net/t/02_00375_c8uqGd2DZawm8ZfM1X9xggxV/310x430/1784822972.webp?s=20b604d07f7f4d3f21c3866d87c850a4a90547c4",
     "datum_pridani": "2026-07-23T17:39:52.859163+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9472401592-lego-speed-champions-bugatti-vision-gt?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9472401592-lego-speed-champions-bugatti-vision-gt?referrer=catalog",
@@ -13836,7 +13780,7 @@
     "price": "424,64 Kč",
     "img": "https://images1.vinted.net/t/01_00cda_H1zDeDnbVUNKUAwzYi42Xidj/310x430/1784821836.webp?s=c1897ee04037732e1b36ad753ee4b23873a18333",
     "datum_pridani": "2026-07-23T17:39:52.859163+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9452807100-lego-speed-champions-mclaren?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9452807100-lego-speed-champions-mclaren?referrer=catalog",
@@ -13848,7 +13792,7 @@
     "img": "https://images1.vinted.net/t/06_014d9_MQBfxs7RgrnUne1Qr8zyP2dy/310x430/1784633174.webp?s=35ab2933340c35b47e789ec5f15c251f4ee8da8d",
     "datum_pridani": "2026-07-23T17:39:52.859163+00:00",
     "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9474220154-lego-speed-champions-77249-bolid-f1-williams-racing?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9474220154-lego-speed-champions-77249-bolid-f1-williams-racing?referrer=catalog",
@@ -13859,7 +13803,7 @@
     "price": "283,09 Kč",
     "img": "https://images1.vinted.net/t/04_019c4_sS6FoUdFBTZgzw8XMkWBe66e/310x430/1784833466.webp?s=d1a19cc345113f13bef5b965728fc236bed641c9",
     "datum_pridani": "2026-07-23T19:37:29.319032+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9474043270-lego-dodge-challenger-srt-hellcat?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9474043270-lego-dodge-challenger-srt-hellcat?referrer=catalog",
@@ -13870,7 +13814,7 @@
     "price": "424,64 Kč",
     "img": "https://images1.vinted.net/t/06_0156b_8fmrVkoAGvHe74m871JZvX9H/310x430/1784832238.webp?s=c6e26e0a345cd992523ec2f6a6e76862c3718e69",
     "datum_pridani": "2026-07-23T19:37:29.319032+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9473911821-lego-speed-champions-77241-honda-s2000?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9473911821-lego-speed-champions-77241-honda-s2000?referrer=catalog",
@@ -13893,7 +13837,7 @@
     "price": "311,40 Kč",
     "img": "https://images1.vinted.net/t/05_0106b_VJcGDqVSoaUU5VffvRwvqhei/310x430/1784830853.webp?s=cef63b5e91e78d2fe989ff2d6bcd394be954f56c",
     "datum_pridani": "2026-07-23T19:37:29.319032+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9473479375-lego-speed-champions-mclaren?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9473479375-lego-speed-champions-mclaren?referrer=catalog",
@@ -13916,7 +13860,7 @@
     "price": "368,02 Kč",
     "img": "https://images1.vinted.net/t/01_01bac_qMzxtqiFV3hSU6k1qojVAJ9w/310x430/1784840190.webp?s=f443f48cc6d3d2c622a3c3a1e0995174e43203da",
     "datum_pridani": "2026-07-23T21:14:14.502363+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9474997035-lego-speed-champions-77241-honda-s2000-z-filmu-za-szybcy-za-wsciekli?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9474997035-lego-speed-champions-77241-honda-s2000-z-filmu-za-szybcy-za-wsciekli?referrer=catalog",
@@ -14010,7 +13954,7 @@
     "price": "113,24 Kč",
     "img": "https://images1.vinted.net/t/02_01c54_WcfK3gVVvQNYQjtNA9vbjYVy/310x430/1784836341.webp?s=dcc564e11ec893167c4369b6d3ccc7d002c85d69",
     "datum_pridani": "2026-07-23T21:14:14.502363+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9474541524-lego-speed-champions-76911-aston-martin-db5?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9474541524-lego-speed-champions-76911-aston-martin-db5?referrer=catalog",
@@ -14021,7 +13965,7 @@
     "price": "424,64 Kč",
     "img": "https://images1.vinted.net/t/06_0109c_EDjebSMyAQhhctnaVr29FYdz/310x430/1784835797.webp?s=b63e02da119ce7167269b7126b46d107cc81daee",
     "datum_pridani": "2026-07-23T21:14:14.502363+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9475400708-lego-ferrari-sf-24-formula-1-77242?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9475400708-lego-ferrari-sf-24-formula-1-77242?referrer=catalog",
@@ -14032,7 +13976,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/05_01343_dnyqEkbLVvfW6EABVKhV5MKF/310x430/1784845904.webp?s=8d04e14cb224628f451bea053ab730fa7d39c020",
     "datum_pridani": "2026-07-23T22:32:25.789966+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9475279307-lego-speed-champions-77259-audi-revolut-f1-team-r26-216-el-nowe?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9475279307-lego-speed-champions-77259-audi-revolut-f1-team-r26-216-el-nowe?referrer=catalog",
@@ -14055,7 +13999,7 @@
     "price": "283,09 Kč",
     "img": "https://images1.vinted.net/t/03_00bdd_BZbfg8FBTnchy2yqisWxfhPD/310x430/1784843616.webp?s=804e404450ea379e8ef39ee2fb0cdd8f9399a5c5",
     "datum_pridani": "2026-07-23T22:32:25.789966+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9470186048-lego-speed-champions-koenigsegg-jesko-76900?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9470186048-lego-speed-champions-koenigsegg-jesko-76900?referrer=catalog",
@@ -14066,7 +14010,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/05_01fd5_rwTusuKbyQ8zAqRCPZSsKxPf/310x430/1784808313.webp?s=936cd8a2234a8843c0fdc89d9e3f7d9c885054e9",
     "datum_pridani": "2026-07-24T00:06:21.607274+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9476069138-lego-speed-champions-ferrari-sf90-xx-stradale-77254?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476069138-lego-speed-champions-ferrari-sf90-xx-stradale-77254?referrer=catalog",
@@ -14113,7 +14057,8 @@
     "price": "390,67 Kč",
     "img": "https://images1.vinted.net/t/02_00d10_T5x4KJ3QUN9crXco2KSiKwAv/310x430/1784872432.webp?s=8a92d2d3956db86c048e14933ad46434839f78e1",
     "datum_pridani": "2026-07-24T06:34:14.031234+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9476993361-lego-speed-76914?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476993361-lego-speed-76914?referrer=catalog",
@@ -14124,7 +14069,7 @@
     "price": "250,00 Kč",
     "img": "https://images1.vinted.net/t/02_0080e_rtviJQtZiHN8ijCWbEnP2ezC/310x430/1784884878.webp?s=d89d6b0d7ac61771d411f81affa192fe7a2059ef",
     "datum_pridani": "2026-07-24T09:26:50.147433+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9476889746-lego-speed-champions-hipersamochod-bugatti-vision-gt-77253?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476889746-lego-speed-champions-hipersamochod-bugatti-vision-gt-77253?referrer=catalog",
@@ -14147,7 +14092,7 @@
     "price": "320,00 Kč",
     "img": "https://images1.vinted.net/t/01_019e6_R2YEZxcLxfciSa91ZRveH15g/310x430/1784883775.webp?s=3cb671b4c0e43ffbf7a4e6c65c2f0395b3b2aa27",
     "datum_pridani": "2026-07-24T09:26:50.147433+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9476821016-lego-speed-champions-77256-wehikul-czasu-z-powrotu-do-przyszlosci?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476821016-lego-speed-champions-77256-wehikul-czasu-z-powrotu-do-przyszlosci?referrer=catalog",
@@ -14182,7 +14127,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/04_01e9a_noYc4yqPwbPbs7dnEj12SWLe/310x430/1784882238.webp?s=2dbe570f17259cba5e5507df80e91f39d41a2dcb",
     "datum_pridani": "2026-07-24T09:26:50.147433+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9476763799-stojak-na-lego-speed-champions-f1-ferrari?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476763799-stojak-na-lego-speed-champions-f1-ferrari?referrer=catalog",
@@ -14217,7 +14162,7 @@
     "price": "141,55 Kč",
     "img": "https://images1.vinted.net/t/06_001df_BNsJmZxpMGgGkF14DFw1V2JE/310x430/1784880862.webp?s=1922d336c03067de0ceefc181693d15cdbddf19e",
     "datum_pridani": "2026-07-24T09:26:50.147433+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9476525618-stojaki-na-lego-speed-champions?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476525618-stojaki-na-lego-speed-champions?referrer=catalog",
@@ -14240,7 +14185,7 @@
     "price": "300,00 Kč",
     "img": "https://images1.vinted.net/t/04_00b5e_D4aBuUtAviPXCX8vzHTRo6Yq/310x430/1784880622.webp?s=3bf1f3d7f8d1eec3f7ff7fce415b26132d5f84b5",
     "datum_pridani": "2026-07-24T09:26:50.147433+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9476413397-lego-speed-champions?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476413397-lego-speed-champions?referrer=catalog",
@@ -14251,7 +14196,8 @@
     "price": "198,16 Kč",
     "img": "https://images1.vinted.net/t/02_00ac0_ceBbt66XDs8vGJuwa61GSacn/310x430/1784879576.webp?s=69093b31c9f1dd8267d0548f589b2d7b3401e90f",
     "datum_pridani": "2026-07-24T09:26:50.147433+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9476176299-lego-speed-toyota-gr-supra?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476176299-lego-speed-toyota-gr-supra?referrer=catalog",
@@ -14262,7 +14208,7 @@
     "price": "415,23 Kč",
     "img": "https://images1.vinted.net/t/01_00a30_PSoFLShCBihCXe2Pchm2qMg9/310x430/1784876486.webp?s=4c4bff75c4cea4e87e78275a4f8094fc718c72ff",
     "datum_pridani": "2026-07-24T09:26:50.147433+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9476225508-klocki-lego-77259?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476225508-klocki-lego-77259?referrer=catalog",
@@ -14273,7 +14219,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/06_00cb2_xHvB2bZeP8zuRGLAR3BWteqF/310x430/1784877222.webp?s=ec62feac407dd17e4770cccfd1755038e720b1b4",
     "datum_pridani": "2026-07-24T09:26:50.147433+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9476135127-lego-speed?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9476135127-lego-speed?referrer=catalog",
@@ -14330,7 +14276,7 @@
     "price": "299,00 Kč",
     "img": "https://images1.vinted.net/t/05_01164_5DJdcjgDv8frjrDiX863XsBe/310x430/1784896864.webp?s=20e09c427053de5c802b9d6fdf02a6f31c042be1",
     "datum_pridani": "2026-07-24T13:03:26.139721+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9478338577-lego-speed-champions-77252-f1-bolid-apxgp?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9478338577-lego-speed-champions-77252-f1-bolid-apxgp?referrer=catalog",
@@ -14377,7 +14323,7 @@
     "price": "424,07 Kč",
     "img": "https://images1.vinted.net/t/06_0113d_ZUmWsZeMWnX98i7QtSWEVUrf/310x430/1784898478.webp?s=910fc369985aa0e4723461be7c719f6bbabebbf1",
     "datum_pridani": "2026-07-24T15:14:56.052059+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9478483992-speed-champions-77239-porsche-911-gt3-rs-nowe-fabrycznie-zaplombowane?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9478483992-speed-champions-77239-porsche-911-gt3-rs-nowe-fabrycznie-zaplombowane?referrer=catalog",
@@ -14412,7 +14358,7 @@
     "price": "290,00 Kč",
     "img": "https://images1.vinted.net/t/05_006d5_A4ihA9DNTaUXRiY24uGhsLzM/310x430/1784906811.webp?s=30d64cf56683d94cb7eec963950bac5191e9fef7",
     "datum_pridani": "2026-07-24T17:08:13.500179+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9480646321-stojak-na-lego-speed-champions-f1-ferrari?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9480646321-stojak-na-lego-speed-champions-f1-ferrari?referrer=catalog",
@@ -14423,7 +14369,7 @@
     "price": "226,47 Kč",
     "img": "https://images1.vinted.net/t/06_003b5_QaS5qU2TBu15ixCwKwHfjBYW/310x430/1784909981.webp?s=e470b0e7d15c5ecc05079cc6c24a1798eeb21828",
     "datum_pridani": "2026-07-24T17:08:13.500179+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9480413646-lego-speed-champions-77241-honda-s2000-z-filmu-za-szybcy-za-wsciekli?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9480413646-lego-speed-champions-77241-honda-s2000-z-filmu-za-szybcy-za-wsciekli?referrer=catalog",
@@ -14446,7 +14392,7 @@
     "price": "277,43 Kč",
     "img": "https://images1.vinted.net/t/01_00d2d_qK7vUupqz2Xej6bD1hTZzNXw/310x430/1784918898.webp?s=7b44e2378cb5f48eedaa760f32184f0625d4086b",
     "datum_pridani": "2026-07-24T19:01:31.880262+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9481859882-zestaw-lego-speed-porche?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9481859882-zestaw-lego-speed-porche?referrer=catalog",
@@ -14457,7 +14403,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/01_0026c_PbkCZmvw7sM1FJigc66bevKN/310x430/1784918758.webp?s=9f84ea75d1fe9732748a6c09e499153755f2b10c",
     "datum_pridani": "2026-07-24T19:01:31.880262+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9481273842-legor-speed-champions-lamborghini-huracan-super-trofeo-evo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9481273842-legor-speed-champions-lamborghini-huracan-super-trofeo-evo?referrer=catalog",
@@ -14468,7 +14414,7 @@
     "price": "130,00 Kč",
     "img": "https://images1.vinted.net/t/06_018ee_FYFmEetXteANiz5qHRYV8299/310x430/1784914316.webp?s=09ab504e7c1f6fb6f3e99b7ccbcda4ed20e3a832",
     "datum_pridani": "2026-07-24T19:01:31.880262+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9481132596-lego-speed-champions-76908-lamborghini-countach-stan-idealny-komplet?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9481132596-lego-speed-champions-76908-lamborghini-countach-stan-idealny-komplet?referrer=catalog",
@@ -14515,7 +14461,7 @@
     "price": "424,64 Kč",
     "img": "https://images1.vinted.net/t/02_0034d_nfiGDzaeJY1DPXGRn5xH7JzU/310x430/r3/1784923287.webp?s=7a79456a4204fd48e3cc68aeaaa164d914f44964",
     "datum_pridani": "2026-07-24T20:48:14.299797+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9484147436-lego-speed-champions-bolid-f1-ferrari-sf-24-77242?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9484147436-lego-speed-champions-bolid-f1-ferrari-sf-24-77242?referrer=catalog",
@@ -14526,7 +14472,8 @@
     "price": "390,67 Kč",
     "img": "https://images1.vinted.net/t/05_00b50_wXpH5d5GshGgnqFiWJbqXuQd/310x430/1784967102.webp?s=12f9b5b25a1201ed39d595bace1edda472784c32",
     "datum_pridani": "2026-07-25T08:32:09.281184+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9483658524-klocki-lego-cars-building-blocks-zuanma-speed-model-komolet?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9483658524-klocki-lego-cars-building-blocks-zuanma-speed-model-komolet?referrer=catalog",
@@ -14536,7 +14483,7 @@
     "price": "56,62 Kč",
     "img": "https://images1.vinted.net/t/05_000cf_R3dr9amTeLiUhPE1jXRpNSKq/310x430/1784960262.webp?s=3bc2be9bbdd7baa9c2ebe2a1415065090f7466cc",
     "datum_pridani": "2026-07-25T08:32:09.281184+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9484821059-lego-speed-champions-76908-lamborghini-countach?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9484821059-lego-speed-champions-76908-lamborghini-countach?referrer=catalog",
@@ -14547,7 +14494,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/06_01f1c_ZoY4JBrvD3dGZDfReyQzJcPo/310x430/1784972619.webp?s=c7dfaa4cbda73ffd6c9f8fa736f866686579e3f2",
     "datum_pridani": "2026-07-25T10:39:44.030411+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9484806570-lego-speed-champions-76914-ferrari-812-competizione?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9484806570-lego-speed-champions-76914-ferrari-812-competizione?referrer=catalog",
@@ -14558,7 +14505,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/02_01eae_B2eH8WvkgRd78eqZjCbK7hxv/310x430/1784972517.webp?s=a4f92b544bf093ca4ae49de05f6eb5d89d045296",
     "datum_pridani": "2026-07-25T10:39:44.030411+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9484779457-lego-speed-champions-bugatti-77240?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9484779457-lego-speed-champions-bugatti-77240?referrer=catalog",
@@ -14605,7 +14552,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/01_01f65_kfDvMBVm8ZuyV1BR5E3JqUSr/310x430/1784970172.webp?s=cef7df2fc7dc29c54c52236da925fde490b03bec",
     "datum_pridani": "2026-07-25T10:39:44.030411+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9484462968-lego-speed-champions-76919-2023-mclaren-formula-1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9484462968-lego-speed-champions-76919-2023-mclaren-formula-1?referrer=catalog",
@@ -14616,7 +14563,7 @@
     "price": "265,00 Kč",
     "img": "https://images1.vinted.net/t/03_01c63_2DzHYuvye8WDfa5Q78GehYpW/310x430/1784969903.webp?s=bd8cef2243ba0ca755acab4f1f190268c90c41a7",
     "datum_pridani": "2026-07-25T10:39:44.030411+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9484407555-wieszak-uchwyt-lego-speed-champions-f1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9484407555-wieszak-uchwyt-lego-speed-champions-f1?referrer=catalog",
@@ -14625,7 +14572,7 @@
     "price": "48,13 Kč",
     "img": "https://images1.vinted.net/t/02_014e3_2MzLrXWbiDcEhRkbf7fe3i9Q/310x430/1784969450.webp?s=76443c10d32d9685257436c4807a313db1716ea4",
     "datum_pridani": "2026-07-25T10:39:44.030411+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9486022913-klocki-lego-chevrolet-camaro-nascar?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9486022913-klocki-lego-chevrolet-camaro-nascar?referrer=catalog",
@@ -14648,7 +14595,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/02_015c9_WTSe61NR8vz4WFxK63FHeNcm/310x430/1784977282.webp?s=68f2187661a73fb2cbdb34306227e1a7c5b6c620",
     "datum_pridani": "2026-07-25T12:06:23.820855+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9485338026-lego-77256-speed-champions-wehikul-czasu-z-powrotu-do-przyszlosci?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9485338026-lego-77256-speed-champions-wehikul-czasu-z-powrotu-do-przyszlosci?referrer=catalog",
@@ -14683,7 +14630,7 @@
     "price": "368,02 Kč",
     "img": "https://images1.vinted.net/t/05_01180_92xp462Q3GG5eAj8tVkpvvAD/310x430/1784976018.webp?s=33eb97759a5bef9c6f54b64a3a0060885dbb178b",
     "datum_pridani": "2026-07-25T12:06:23.820855+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9485411001-ps3-hry-na-playstation-3-ceny-v-textu?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9485411001-ps3-hry-na-playstation-3-ceny-v-textu?referrer=catalog",
@@ -14692,7 +14639,7 @@
     "price": "1,00 Kč",
     "img": "https://images1.vinted.net/t/02_0138f_kzfSpXjfoT1a4nCp3dFuGPBX/310x430/1784976690.webp?s=428ef6de8f3346b874fd2fdf42600445c81a79e3",
     "datum_pridani": "2026-07-25T12:06:23.820855+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9459195192-lego-speed-champions?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9459195192-lego-speed-champions?referrer=catalog",
@@ -14703,7 +14650,8 @@
     "price": "450,00 Kč",
     "img": "https://images1.vinted.net/t/03_0174f_ufmb37Ru2xZszxttRRvADuGg/310x430/1784699993.webp?s=9c1d9643f790795d94faff66b1f4f34f6fe2a296",
     "datum_pridani": "2026-07-25T12:06:23.820855+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9487086176-choprai-njo0113-70750-70748-turniej-zywiolow?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9487086176-choprai-njo0113-70750-70748-turniej-zywiolow?referrer=catalog",
@@ -14738,7 +14686,7 @@
     "price": "56,62 Kč",
     "img": "https://images1.vinted.net/t/03_0120b_PTz33VewTJrJ5MizNRVjcyQR/310x430/1784987019.webp?s=45f983aba7689f37f10c2e28c0048b2c2c505d7c",
     "datum_pridani": "2026-07-25T14:12:00.016124+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9486167763-lego-speed-champions-77259?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9486167763-lego-speed-champions-77259?referrer=catalog",
@@ -14749,7 +14697,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/04_019c0_fiDZkpkkfpen5qn5DoVjX1VY/310x430/r1/1784981802.webp?s=838b98b45e461bcad545105f4813e2e5a111f798",
     "datum_pridani": "2026-07-25T14:12:00.016124+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9487888208-lego-speed-champions-76925-aston-martin?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9487888208-lego-speed-champions-76925-aston-martin?referrer=catalog",
@@ -14784,7 +14732,7 @@
     "price": "277,43 Kč",
     "img": "https://images1.vinted.net/t/04_0110e_6Py7aAzBQbNuPYYRo3cwaaF1/310x430/1784990662.webp?s=5ad6a87df33856136d79d4cef0f43756daf1c793",
     "datum_pridani": "2026-07-25T15:43:31.426826+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9487493178-lego-formule-1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9487493178-lego-formule-1?referrer=catalog",
@@ -14795,7 +14743,8 @@
     "price": "350,00 Kč",
     "img": "https://images1.vinted.net/t/06_00d70_5WGzNYvmXk6CfFsu5SydAM7o/310x430/1784990021.webp?s=5b27a19575bf53ac3919445a546f41c5eb99add3",
     "datum_pridani": "2026-07-25T15:43:31.426826+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9488966846-lego-speed-champions-wehikul-czasu-z-powrotu-do-przyszlosci-77256?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9488966846-lego-speed-champions-wehikul-czasu-z-powrotu-do-przyszlosci-77256?referrer=catalog",
@@ -14818,7 +14767,7 @@
     "price": "277,43 Kč",
     "img": "https://images1.vinted.net/t/04_02342_A771RZwH46RXR8Lkc9672178/310x430/1784999038.webp?s=be4907021697074fd1577080832dfe293a265483",
     "datum_pridani": "2026-07-25T17:09:03.620698+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9488815882-lego-speed-champion-76914-ferrari?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9488815882-lego-speed-champion-76914-ferrari?referrer=catalog",
@@ -14829,7 +14778,7 @@
     "price": "366,38 Kč",
     "img": "https://images1.vinted.net/t/01_01212_hnNm4YMuy1kGy6xijMPwoKT9/310x430/1784998253.webp?s=eee49f00da4d63e092df562dbbf165ec8cb7db27",
     "datum_pridani": "2026-07-25T17:09:03.620698+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9488531101-lego-speed-champions-76908-lamborghini-countach?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9488531101-lego-speed-champions-76908-lamborghini-countach?referrer=catalog",
@@ -14852,7 +14801,7 @@
     "price": "73,55 Kč",
     "img": "https://images1.vinted.net/t/02_01eee_E9qwjpBCAhJCbcN6MGeSBGLk/310x430/1784983554.webp?s=2c901678e73f6fea0ac53c58c493e4b708ae042c",
     "datum_pridani": "2026-07-25T18:29:41.850062+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9489124404-lego-speed-championa-ferrari-f40?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9489124404-lego-speed-championa-ferrari-f40?referrer=catalog",
@@ -14875,7 +14824,7 @@
     "price": "73,28 Kč",
     "img": "https://images1.vinted.net/t/05_021ce_rBY8b5eoSRGA8NaWQ6f6JGiN/310x430/1785008719.webp?s=ce1ab69216b4c8f0519b6cdfdd18e45f49553097",
     "datum_pridani": "2026-07-25T19:48:57.226800+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9489694751-auto-lego-76920-speed-champions-ford-mustang-dark-horse?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9489694751-auto-lego-76920-speed-champions-ford-mustang-dark-horse?referrer=catalog",
@@ -14886,7 +14835,7 @@
     "price": "254,78 Kč",
     "img": "https://images1.vinted.net/t/02_00c51_U8bgiCYwdkbwqCMxh4aiHrxN/310x430/1785004810.webp?s=b2bb8efe351a1a6afa0f512764578c19ccf0f8c2",
     "datum_pridani": "2026-07-25T19:48:57.226800+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9490299214-lego-instrukcje-katalogi-magazyny?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9490299214-lego-instrukcje-katalogi-magazyny?referrer=catalog",
@@ -14897,7 +14846,7 @@
     "price": "339,71 Kč",
     "img": "https://images1.vinted.net/t/02_000fe_c5RDSkzt7D9sQQTQY5mvcVYr/310x430/1785010206.webp?s=88e48f48b220294e096edaa62e0237d25da141a4",
     "datum_pridani": "2026-07-25T21:01:29.228750+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9490241827-lego-76916-speed-champions-porsche-963?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9490241827-lego-76916-speed-champions-porsche-963?referrer=catalog",
@@ -14908,7 +14857,7 @@
     "price": "169,85 Kč",
     "img": "https://images1.vinted.net/t/03_01873_xFVztLCW7w3RfDEqa8CUAz9u/310x430/1785009632.webp?s=65bd6db8960ae4708ab2bcfaa3aad025bbd7232e",
     "datum_pridani": "2026-07-25T21:01:29.228750+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9490775753-lego-speed-champions-77259-bolid-audi-revolut-f1-team-r26?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9490775753-lego-speed-champions-77259-bolid-audi-revolut-f1-team-r26?referrer=catalog",
@@ -14919,7 +14868,7 @@
     "price": "368,02 Kč",
     "img": "https://images1.vinted.net/t/06_019d5_jQjjgPWhZDFYKn1zDY9DLLtG/310x430/1785016341.webp?s=2974ad3b707dd4fa7e7a2a8512319176703e2bf9",
     "datum_pridani": "2026-07-25T22:29:08.134646+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9491560520-lego-speed-champions-formula-1-bolid-f1-oracle-red-bull-racing-rb20?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9491560520-lego-speed-champions-formula-1-bolid-f1-oracle-red-bull-racing-rb20?referrer=catalog",
@@ -14942,7 +14891,7 @@
     "price": "277,43 Kč",
     "img": "https://images1.vinted.net/t/02_00b54_Ro1NAAEg4CmrcawmJbdHmg5t/310x430/1785057589.webp?s=4096da0d8033706cea016fbdd836d00837082604",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9492375411-lego-speed-champions?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9492375411-lego-speed-champions?referrer=catalog",
@@ -14953,7 +14902,7 @@
     "price": "283,09 Kč",
     "img": "https://images1.vinted.net/t/02_00eed_QViUz3BnEF6nQQWznZW682oy/310x430/1785056400.webp?s=4a70b55eed59f640547311ea1cd779100dd9b77c",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9491825902-lego-speed-champions-75871-ford-mustang-gt?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9491825902-lego-speed-champions-75871-ford-mustang-gt?referrer=catalog",
@@ -14964,7 +14913,7 @@
     "price": "368,02 Kč",
     "img": "https://images1.vinted.net/t/04_01a37_v5UVGfpeJSiQsjB99FrdrvvS/310x430/1785051898.webp?s=a29a072c0dc4eb66145249e63c01d7c3f312b381",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9491841192-lego-speed-champions-76914-ferrari-812-competizione?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9491841192-lego-speed-champions-76914-ferrari-812-competizione?referrer=catalog",
@@ -14975,7 +14924,7 @@
     "price": "226,47 Kč",
     "img": "https://images1.vinted.net/t/02_02016_AnXtk3vELhf4zskeGdTEcK98/310x430/1785052061.webp?s=36f3e9494403f1b0fb2e9d5501d3c625a1ca0f25",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9491603828-lego-speed-75877-mercedes?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9491603828-lego-speed-75877-mercedes?referrer=catalog",
@@ -14986,7 +14935,7 @@
     "price": "238,00 Kč",
     "img": "https://images1.vinted.net/t/06_009da_My5YH2tuAPyix8kF9zucveEP/310x430/1785048962.webp?s=90e3703a97657ba5825ade9e2bea37c10f6be292",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9491579743-lego-speed-77247-champions-formula-1-bolid-f1-kick-sauber-team-c44?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9491579743-lego-speed-77247-champions-formula-1-bolid-f1-kick-sauber-team-c44?referrer=catalog",
@@ -14997,7 +14946,8 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/04_01c0f_X97mDkhQttRiNEcRmdLnbMEC/310x430/1785048529.webp?s=093f74dbdfc5efde5a88b76e7ef4b474c7ab7660",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T09:20:31.828843+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/9491569993-lego-speed-champions-formula-1-bolid-f1-bwt-alpine-team-a524-77248?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9491569993-lego-speed-champions-formula-1-bolid-f1-bwt-alpine-team-a524-77248?referrer=catalog",
@@ -15008,7 +14958,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/05_00b63_HGYS4hkukRz1Bv9vYSSNyQRA/310x430/1785048350.webp?s=f9c9a287dd00d337ef38d22bfde4621c4274332e",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9491560520-lego-speed-77243-champions-formula-1-bolid-f1-oracle-red-bull-racing-rb20?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9491560520-lego-speed-77243-champions-formula-1-bolid-f1-oracle-red-bull-racing-rb20?referrer=catalog",
@@ -15019,7 +14969,7 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/02_010bc_LKxRvT1ocGSLJDjfqkNRM9vM/310x430/1785048173.webp?s=a78b5954a71d6812408b7cbb2c47582d7b849a60",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   },
   "https://www.vinted.cz/items/9484137358-lego-76935-speed-champions-nascar-next-gen-chevrolet-camaro-zl1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/9484137358-lego-76935-speed-champions-nascar-next-gen-chevrolet-camaro-zl1?referrer=catalog",
@@ -15030,6 +14980,125 @@
     "price": "396,33 Kč",
     "img": "https://images1.vinted.net/t/05_012f2_gXHFSKWEFzKtcBKqRkaTMwqW/310x430/1784967002.webp?s=8d16a26ebe0e7038c8a777083325fec152af9f7b",
     "datum_pridani": "2026-07-26T09:20:31.828843+00:00",
-    "posledni_videno": "2026-07-26T09:20:31.828843+00:00"
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9493644131-f1-imola-drs-stand-for-speed-champions?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9493644131-f1-imola-drs-stand-for-speed-champions?referrer=catalog",
+    "title": "F1 Imola DRS Stand for Speed Champions",
+    "brand": "LEGO",
+    "condition": "Nový bez visačky",
+    "price": "113,18 Kč",
+    "img": "https://images1.vinted.net/t/03_0039f_WZP7kKSdSrrGL7p9NMaNG8UG/310x430/1785063532.webp?s=c9bf94a43e40080e5cb34ac66834714fdc41e05d",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9493589281-f1-melbourne-drs-stand-for-speed-champions?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9493589281-f1-melbourne-drs-stand-for-speed-champions?referrer=catalog",
+    "title": "F1 Melbourne DRS Stand for Speed Champions",
+    "brand": "LEGO",
+    "condition": "Nový bez visačky",
+    "price": "113,18 Kč",
+    "img": "https://images1.vinted.net/t/01_0188c_Lud4LTzTtxNP3ZZbnPL2uUTZ/310x430/1785063237.webp?s=d140b780a0c7c634ff26f86cc5b0d9f235ee5cdf",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9493338797-lego-speed-champions?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9493338797-lego-speed-champions?referrer=catalog",
+    "title": "Lego speed champions",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "do 44 cm",
+    "price": "254,78 Kč",
+    "img": "https://images1.vinted.net/t/05_01835_vuyFJmUDY8vE9Mvx1kJGSnNA/310x430/1785061892.webp?s=ccbf2a46fbac0302a12b3345a5721e4afe5ce019",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9493320823-lego-nissan-gtr-76917?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9493320823-lego-nissan-gtr-76917?referrer=catalog",
+    "title": "Lego Nissan gtr 76917",
+    "brand": "LEGO",
+    "condition": "Nový s visačkou",
+    "size": "Univerzální",
+    "price": "385,00 Kč",
+    "img": "https://images1.vinted.net/t/06_000eb_1ypqDSwtfiX3faQHX99FkFiT/310x430/1785061794.webp?s=d970bfad9fb18227d016f4e253ba2b0e15816dae",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9493011685-legor-speed-champions-77249-pretekarske-auto-williams-racing-fw46-f1r?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9493011685-legor-speed-champions-77249-pretekarske-auto-williams-racing-fw46-f1r?referrer=catalog",
+    "title": "LEGO® Speed Champions 77249 Pretekárske auto Williams Racing FW46 F1®",
+    "brand": "LEGO",
+    "condition": "Nový s visačkou",
+    "size": "Univerzální",
+    "price": "390,80 Kč",
+    "img": "https://images1.vinted.net/t/02_00bfe_wuzAZN3PC6jfVMhijnSeYH7w/310x430/1785060120.webp?s=90c6db990204fcbd40c3180d3dfbafa56467076c",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9492973381-lego-speed-champions-mclaren?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9492973381-lego-speed-champions-mclaren?referrer=catalog",
+    "title": "Lego speed champions MClaren",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "311,40 Kč",
+    "img": "https://images1.vinted.net/t/06_01c56_Dhc7FxDDQXrLiLNoeZfWFiUg/310x430/1785059911.webp?s=477a5af73afd5187e9d9ad9a42e1993120488b39",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9492773250-lego-speed-champions-audi-s1-e-tron-quattro?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9492773250-lego-speed-champions-audi-s1-e-tron-quattro?referrer=catalog",
+    "title": "Lego speed champions Audi S1 e-tron quattro",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "311,40 Kč",
+    "img": "https://images1.vinted.net/t/03_0063e_srTFMaf6pRfrcgnWiFNEWrNs/310x430/1785058802.webp?s=2e095ee3ec4b739edf3ce4dcf81b0859bbc4ba35",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9492705183-klocki-lego-speed?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9492705183-klocki-lego-speed?referrer=catalog",
+    "title": "Klocki lego speed",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "110–115 cm / 5 let",
+    "price": "254,78 Kč",
+    "img": "https://images1.vinted.net/t/06_00f2d_JULH4HMo8HNHv9r8DBTXJayQ/310x430/1785058415.webp?s=9d29a508c5580ed81827021cf28b423a543ac5ac",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9492745413-lego-76921-speed-champions-audi-s1-e-tron-quattro?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9492745413-lego-76921-speed-champions-audi-s1-e-tron-quattro?referrer=catalog",
+    "title": "LEGO 76921 Speed Champions Audi S1 E-tron Quattro",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "92–97 cm / 24–36 měsíců",
+    "price": "283,09 Kč",
+    "img": "https://images1.vinted.net/t/03_00b18_JVEhoP45kuN6GpjDzpeiL1zH/310x430/1785058646.webp?s=bd375fdb726e169febc3b0e41e9ece48544ed749",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9492595707-lego-speed-lamborghini?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9492595707-lego-speed-lamborghini?referrer=catalog",
+    "title": "LEGO Speed Lamborghini",
+    "brand": "LEGO",
+    "condition": "Nový s visačkou",
+    "size": "134–139 cm / 9 let",
+    "price": "399,00 Kč",
+    "img": "https://images1.vinted.net/t/06_0073c_h1m3CDS5MePUVzZ2mRtEaDs6/310x430/1785057778.webp?s=2bb035c1fcc1f6ba8ca1dde9d609ff73ffd2b1de",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
+  },
+  "https://www.vinted.cz/items/9492789854-super-zings-speed-fury-pojazd-zestaw-figurki-dodatkowe-figurki-na-profilu-znajduje-sie-rowniez-lego?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/9492789854-super-zings-speed-fury-pojazd-zestaw-figurki-dodatkowe-figurki-na-profilu-znajduje-sie-rowniez-lego?referrer=catalog",
+    "title": "Super zings speed fury pojazd zestaw",
+    "brand": "Superzings",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "203,83 Kč",
+    "img": "https://images1.vinted.net/t/01_0232f_h1BRizUM9cSEvsNWe53GsWV6/310x430/1785058896.webp?s=7f2361e2827a7b3d33fe216b078dc0dce46e3f41",
+    "datum_pridani": "2026-07-26T11:04:52.768303+00:00",
+    "posledni_videno": "2026-07-26T11:04:52.768303+00:00"
   }
 }
